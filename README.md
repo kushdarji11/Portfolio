@@ -1,6 +1,6 @@
 # PortfolioV2
 
-### A clean portfolio template. (Readme will be updated soon)
+### A clean portfolio template. 
 
 # Sections
 
