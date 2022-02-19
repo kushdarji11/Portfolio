@@ -1,15 +1,14 @@
 {
   "private": true,
-  "name": "serverless-kush-app",
+  "name": "portfoliokush",
   "homepage": "",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "aws s3 sync build/ s3://serverless-kush-app",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "baseui": "^9.109.0",
