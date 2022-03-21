@@ -315,7 +315,6 @@ const certifications = {
       logo_path: "hadoop.png",
       certificate_link:"https://drive.google.com/uc?export=view&id=1HOUkxhhZkPU11QyrPmnE8QMfJrDR4qW2",
       alt_name: "Hadoop",
-      // color_code: "#2AAFED",
       color_code: "#E2405F",
     },
     {
@@ -470,7 +469,7 @@ const experience = {
           logo_path: "io.png",
           duration: "August 2021 - November 2021",
           location: "Remote",
-          description: "  -I was working part time with this company for over a year. Improve its digital presence using  SEO techniques. Created a website for this company using  Node.JS and React.JS.",
+          description: "Worked on an android java centralised crypto exchange mobile platform with options for executing crypto trades ensuring the security with IMPS Unocoin API and wallet for transfer funds, -Added user authentication and verification with integrated Firebase using KYC i.e., national identity, -Fetched real time data using API of major cryptocurrencies and represented the data into graphical formatreated a website for this company using  NodeJS and ReactJS.",
           color: "#4285F4",
         },
         {
@@ -481,7 +480,7 @@ const experience = {
           duration: "November 2020 - December 2020",
           location: "Work from home",
           description:
-          "Creating WebPages in PHP using IDE like code Ignitor.Connection of the web pages to database.",
+          "-Conducted prediction of various features based on known data using Supervised Machine Learning Algorithms, -Used regression and classification algorithms to predict fuel dispense data, -Pre-process and visualized the data using charts and graphs, -Performed categorical and label encoding with feature selection and target prediction.",
           color: "#4285F4",
         },
       ],
