@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Kush",
   full_name: "Kush Darji",
   subTitle:
-    "Software Developer | Android Development | Machine Learning Intern",
+    "Software Developer/Development | Android Development Intern ",
   resumeLink:
     "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
   mail: "mailto:darjik@uwindsor.ca",
@@ -199,10 +199,10 @@ const skills = {
       ],
     },
     {
-      title: "Database architect",
+      title: "Database/Cloud architect",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Maintained app comonents, including activites, fragments, and services to automate testing and decrease deployment time.",
+        "⚡ Maintained app components, including activites, fragments, and services to automate testing and decrease deployment time.",
         "⚡ Managed dependencies between components using design patterns such as Dependency Injection and Service Locator focusing on core of the app to handle multiple concurrent users",
         "⚡ Recognized bottlenecks, introduced best practices and designed templates to improve code efficiency.",
         "⚡ Establish clear roles and responsibilities between the various parts of the application.",
