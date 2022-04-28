@@ -15,9 +15,9 @@ const greeting = {
   nickname: "Kush",
   full_name: "Kush Darji",
   subTitle:
-    "Software Developer/Development | Android Development Intern ",
-  resumeLink:
-    "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
+    "Software Developer/Development | Web Development | Android Development Intern ",
+  // resumeLink:
+  //   "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
   mail: "mailto:darjik@uwindsor.ca",
 };
 
