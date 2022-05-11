@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Kush",
   full_name: "Kush Darji",
   subTitle:
-    "Software Developer/Development | Web Development | Android Development Intern ",
+    "Software Developer/Development | Web Development | Android Development Intern | Machine Learning Intern ",
   // resumeLink:
   //   "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
   mail: "mailto:darjik@uwindsor.ca",
@@ -34,7 +34,7 @@ const skills = {
       title: "Software Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Experience in Software Development with specialization in Android Java Technology.",
+        "⚡ Experience in Software Development with specialization in Android Java Technology and Web technologies.",
         "⚡ Formulated Software Requirement Specification document for more than five academic projects.",
         "⚡ Proven ability in building user-centric applications that can scale and have improved app performance.",
         "⚡ Expertise in writing SQL, Stored Procedures, Views, Triggers with MySQL, and Firebase.",
