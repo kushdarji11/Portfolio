@@ -15,7 +15,7 @@ const greeting = {
   nickname: "Kush",
   full_name: "Kush Darji",
   subTitle:
-    "Software Developer/Development | Web Development | Android Development Intern | Machine Learning Intern ",
+    "Software Developer/Web Developer | Web Developer Intern | Android Development Intern | Machine Learning Intern ",
   // resumeLink:
   //   "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
   mail: "mailto:darjik@uwindsor.ca",
@@ -63,13 +63,13 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        // {
-        //   skillName: "PHP",
-        //   fontAwesomeClassname: "simple-icons:php",
-        //   style: {
-        //     color: "#7377AD",
-        //   },
-        // },
+        {
+          skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
+          style: {
+            color: "#7377AD",
+          },
+        },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -84,13 +84,13 @@ const skills = {
             color: "#339933",
           },
         },
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837",
-        //   },
-        // },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -147,20 +147,20 @@ const skills = {
             color: "#4479A1",
           },
         },
-        // {
-        //   skillName: "jQuery",
-        //   fontAwesomeClassname: "simple-icons:jquery",
-        //   style: {
-        //     color: "#0865A6",
-        //   },
-        // },
-        // {
-        //   skillName: "Wordpress",
-        //   fontAwesomeClassname: "simple-icons:wordpress",
-        //   style: {
-        //     color: "#207297",
-        //   },
-        // },
+        {
+          skillName: "jQuery",
+          fontAwesomeClassname: "simple-icons:jquery",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "Wordpress",
+          fontAwesomeClassname: "simple-icons:wordpress",
+          style: {
+            color: "#207297",
+          },
+        },
         // {
         //   skillName: "Apache",
         //   fontAwesomeClassname: "simple-icons:apache",
@@ -418,7 +418,7 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance.",
+    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer Intern at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance.",
   header_image_path: "experience.svg",
   sections: [
     // {
@@ -463,13 +463,23 @@ const experience = {
       title: "Internships",
       experiences: [
         {
+          title: "Web Developer",
+          company: "Kudos Inc.",
+          company_url: "https://www.kudos.com/",
+          logo_path: "Kudos.png",
+          duration: "June 2022 - August 2022",
+          location: "Remote",
+          description: "Developed a ROI calculator using three different modules helping users to recognise the optimize solutions from the results of the modules and increase the ROI, -Collaborated with different stakeholders, i.e., sales and marketing of the company for generating appropriate formulas for the calculator, -Assisted manager in creating the design and flow of the project with division of tasks in a sprint format.",
+          color: "#4285F4",
+        },
+        {
           title: "Android Developer",
           company: "InfiniumDev IO",
           company_url: "https://www.infiniumdevio.com/",
           logo_path: "io.png",
           duration: "August 2021 - November 2021",
           location: "Remote",
-          description: "Worked on an android java centralised crypto exchange mobile platform with options for executing crypto trades ensuring the security with IMPS Unocoin API and wallet for transfer funds, -Added user authentication and verification with integrated Firebase using KYC i.e., national identity, -Fetched real time data using API of major cryptocurrencies and represented the data into graphical formatreated a website for this company using  NodeJS and ReactJS.",
+          description: "Worked on an android java centralised crypto exchange mobile platform with options for executing crypto trades ensuring the security with IMPS Unocoin API and wallet for transfer funds, -Added user authentication and verification with integrated Firebase using KYC i.e., national identity, -Fetched real time data using API of major cryptocurrencies and represented the data into graphical format",
           color: "#4285F4",
         },
         {
