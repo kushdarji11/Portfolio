@@ -418,47 +418,9 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer Intern at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance.",
+    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer Intern at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance. I have also gained experience as a Web Developer intern at Calgary based startup, i.e., Kudos Inc. where I was responsible for developong ROI calculator using MERN stack",
   header_image_path: "experience.svg",
   sections: [
-    // {
-    //   title: "Work Experience",
-    //   experiences: [
-    //     {
-    //       title: "System Software Developer Co-op",
-    //       company: "Nokia (Ottawa)",
-    //       company_url: "https://www.nokia.com/",
-    //       logo_path: "nokia.png",
-    //       duration: "Jan 2022 - Present",
-    //       location: "Office",
-    //       description:
-    //         "Developing insight module for Nokia’s legacy software ‘Network Functional Manager - Transport’ by cleaning, filtering and analyzing large datasets using Python models. Contemplating the designs using creative components in React.JS.",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Software Developer",
-    //       company: "SoluLab (Ahmedabad)",
-    //       company_url: "https://www.solulab.com/",
-    //       logo_path: "solulab.png",
-    //       duration: "June 2019 - Jan 2021",
-    //       location: "Office",
-    //       description:
-    //         "Understood problem statements to implement business logics using superior REST API’s developed in Node.JS and Translated wireframes into high quality frontend code in React.JS. Worked on Efficient smart contract development in languages like GoLang and Solidity. Formulated specifications, design, architecture and relevant risk plans for more than six projects. Took up a crucial responsibility of training, managing and evaluating software interns. Maintained CI/CD pipelines to automate testing and decrease deployment time by 40%. Deployed Docker containers to break an application into microservices, managed by Kubernetes and could handle over 100,000 concurrent users. Recognized bottlenecks, introduced best practices and pre-designed templates to improve code efficiency by 25%. Acted as a key solution architect for a web application that raised over 1.6 Million dollars.",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Research and Development Intern",
-    //       company: " Indian Institute of Toxicology Research (Lucknow)",
-    //       company_url: "http://iitrindia.org/En/Index.aspx",
-    //       logo_path: "iitr.png",
-    //       duration: " Jan 2019 - May 2019",
-    //       location: "Office",
-    //       description:
-    //         "Compiled a research paper and a working proof of concept model on enhancing data interoperability between patients, doctors, insurers using Blockchain for security and AI for prediction.",
-    //       color: "#0071C5",
-    //     }
-    //   ],
-    // },
     {
       title: "Internships",
       experiences: [
