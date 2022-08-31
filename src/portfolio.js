@@ -286,9 +286,10 @@ const degrees = {
       alt_name: "UOW",
       duration: "May 2021 - Present",
       descriptions: [
-        "⚡ Participated in various Hackathons like 'BorderHacks', 'WinHacks' and 'HackForge' to have hands-on experience to develop my skills.",
-        "⚡ Member of AAAS organisation and enroled in a program named Prototype Pipeline associated with Invest WindsorEssex for working on business ideas.",
-        "⚡ Distinction in first two semesters with cumulative grade near to 90",
+        "⚡ Distinction with cumulative grade of 87.89%",
+        "⚡ Participated in various Hackathons like 'BorderHacks', 'WinHacks' and 'HackForge' to have hands-on experience on developing problem-solving skills.",
+        "⚡ Member of AAAS organisation and enrolled in a program named Prototype Pipeline associated with Invest WindsorEssex for working on business ideas.",
+ 
       ],
       website_link: "https://www.uwindsor.ca/",
     },
