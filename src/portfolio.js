@@ -419,8 +419,25 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer Intern at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance. I have also gained experience as a Web Developer intern at Calgary based startup, i.e., Kudos Inc. where I was responsible for developong ROI calculator using MERN stack",
+    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer Intern at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance. I have also gained experience as a Web Developer at Calgary based startup, i.e., Kudos Inc. where I was responsible for developong ROI calculator using MERN stack",
   header_image_path: "experience.svg",
+  // sections: [
+  //   {
+  //     title: "Experience",
+  //     experiences: [
+  //       {
+  //         title: "Web Developer",
+  //         company: "Kudos Inc.",
+  //         company_url: "https://www.kudos.com/",
+  //         logo_path: "Kudos.png",
+  //         duration: "Sept 2022 - Present",
+  //         location: "Remote",
+  //         description: "Updating the version of ROI calculator for the Sales team supporting finance-driven decisions of the clients. Managing requested modifications and technical challenges in accordance with the requirements by collaborating with UI/UX and Deployment team and receiving multiple acknowledgment badges from the colleagues",
+  //         color: "#4285F4",
+  //       },
+  //     ],
+  //   },
+  // ],
   sections: [
     {
       title: "Experience",
@@ -435,15 +452,8 @@ const experience = {
           description: "Updating the version of ROI calculator for the Sales team supporting finance-driven decisions of the clients. Managing requested modifications and technical challenges in accordance with the requirements by collaborating with UI/UX and Deployment team and receiving multiple acknowledgment badges from the colleagues",
           color: "#4285F4",
         },
-      ],
-    },
-  ],
-  sections: [
-    {
-      title: "Internships",
-      experiences: [
         {
-          title: "Web Developer",
+          title: "Web Developer Intern",
           company: "Kudos Inc.",
           company_url: "https://www.kudos.com/",
           logo_path: "Kudos.png",
@@ -453,7 +463,7 @@ const experience = {
           color: "#4285F4",
         },
         {
-          title: "Android Developer",
+          title: "Android Developer Intern",
           company: "InfiniumDev IO",
           company_url: "https://www.infiniumdevio.com/",
           logo_path: "io.png",
@@ -463,7 +473,7 @@ const experience = {
           color: "#4285F4",
         },
         {
-          title: "Machine Learning",
+          title: "Machine Learning Intern",
           company: "MOBA Mobile Automation",
           company_url: "https://moba-automation.eu/",
           logo_path: "moba.png",
