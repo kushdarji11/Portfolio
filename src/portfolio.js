@@ -423,6 +423,23 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
+      title: "Experience",
+      experiences: [
+        {
+          title: "Web Developer",
+          company: "Kudos Inc.",
+          company_url: "https://www.kudos.com/",
+          logo_path: "Kudos.png",
+          duration: "Sept 2022 - Present",
+          location: "Remote",
+          description: "Updating the version of ROI calculator for the Sales team supporting finance-driven decisions of the clients. Managing requested modifications and technical challenges in accordance with the requirements by collaborating with UI/UX and Deployment team and receiving multiple acknowledgment badges from the colleagues",
+          color: "#4285F4",
+        },
+      ],
+    },
+  ],
+  sections: [
+    {
       title: "Internships",
       experiences: [
         {
