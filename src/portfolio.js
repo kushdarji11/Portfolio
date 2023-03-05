@@ -627,26 +627,26 @@ const projects = {
     },
     {
       id: "5",
-      name: "Eclectic",
-      url: "https://github.com/kushdarji11/Eclectic",
+      name: "Employee Management System",
+      url: "https://github.com/kushdarji11/employee_management_system",
       description:
-        "Android application like hike for any private organization - which has functionalities like Chat, Feed and Tasks having an additional functionality of creating a private room to have interraction among amployees of the company.",
-      languages: [
+        "An employee management web application build using Java, Springboot as a backend and React as a frontend to perform the employee related CRUD operations.", 
+        languages: [
         {
-          name: "Android",
-          iconifyClass: "flat-color-icons:android-os",
+          name: "Springboot",
+          iconifyClass: "skill-icons:spring-light",
         },
         {
           name: "Java",
           iconifyClass: "logos:java",
         },
         {
-          name: "Firebase",
-          iconifyClass: "vscode-icons:file-type-firebase",
+          name: "React",
+          iconifyClass: "skill-icons:react-light",
         },
         {
-          name: "XML",
-          iconifyClass: "vscode-icons:file-type-xml",
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },
