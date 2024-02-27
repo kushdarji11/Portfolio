@@ -443,13 +443,23 @@ const experience = {
       title: "Experience",
       experiences: [
         {
+          title: ".NET Developer",
+          company: "CGI",
+          company_url: "https://www.cgi.com/en",
+          logo_path: "cgi.png",
+          duration: "Sept 2023 - Present",
+          location: "Hybrid",
+          description: "Collaborating with the team in an agile environment to create REST APIs for products related to vehicle and home insurance. Utilizing ASP.NET, SQL Server and Visual Studio for development.",
+          color: "#4285F4",
+        },
+        {
           title: "Java Developer",
           company: "CGI",
           company_url: "https://www.cgi.com/en",
           logo_path: "cgi.png",
-          duration: "Jan 2023 - Present",
+          duration: "Jan 2023 - Aug 2023",
           location: "Hybrid",
-          description: "Working on the legacy project to transform the data from C++ to Java. Using Java, Springboot, Mybatis and related frameworks to perform tasks.",
+          description: "Worked on a legacy transition financial project using Java, Springboot, Mybatis functionality with demonstrating extensive expertise in logic building maintaining the MVC architecture using Spring and Hibernate ORM framework. Integrated SLF4J logging functionality and built the server using Jenkins implementing changes in C++ server. Diligently managed UTR documentation while conducting efficient unit and sonar testing reaching 80% refactoring coverage.",
           color: "#4285F4",
         },
         {
@@ -544,7 +554,7 @@ const projects = {
     {
       id: "1",
       name: "ChatHosting",
-      url: "https://github.com/kushdarji11/ChatHostinge",
+      url: "https://github.com/kushdarji11/ChatHosting",
       description:
         "Developed a real-time chat app for communication where Host can create room and broadcast the message.",
       languages: [
