@@ -15,9 +15,9 @@ const greeting = {
   nickname: "Kush",
   full_name: "Kush Darji",
   subTitle:
-    "Software Developer | Android Development | Machine Learning Intern",
-  resumeLink:
-    "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
+    "Software Developer/Web Developer | Web Developer Intern | Android Development Intern | Machine Learning Intern ",
+  // resumeLink:
+  //   "https://drive.google.com/uc?export=view&id=1nG9MnfnaWdnOxu_VGTlZ_lHa1AvszSEI",
   mail: "mailto:darjik@uwindsor.ca",
 };
 
@@ -34,7 +34,7 @@ const skills = {
       title: "Software Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Experience in Software Development with specialization in Android Java Technology.",
+        "⚡ Experience in Software Development with specialization in Android Java Technology and Web technologies.",
         "⚡ Formulated Software Requirement Specification document for more than five academic projects.",
         "⚡ Proven ability in building user-centric applications that can scale and have improved app performance.",
         "⚡ Expertise in writing SQL, Stored Procedures, Views, Triggers with MySQL, and Firebase.",
@@ -63,13 +63,13 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        // {
-        //   skillName: "PHP",
-        //   fontAwesomeClassname: "simple-icons:php",
-        //   style: {
-        //     color: "#7377AD",
-        //   },
-        // },
+        {
+          skillName: "PHP",
+          fontAwesomeClassname: "simple-icons:php",
+          style: {
+            color: "#7377AD",
+          },
+        },
         {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
@@ -84,13 +84,13 @@ const skills = {
             color: "#339933",
           },
         },
-        // {
-        //   skillName: "NPM",
-        //   fontAwesomeClassname: "simple-icons:npm",
-        //   style: {
-        //     color: "#CB3837",
-        //   },
-        // },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
         {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
@@ -147,20 +147,20 @@ const skills = {
             color: "#4479A1",
           },
         },
-        // {
-        //   skillName: "jQuery",
-        //   fontAwesomeClassname: "simple-icons:jquery",
-        //   style: {
-        //     color: "#0865A6",
-        //   },
-        // },
-        // {
-        //   skillName: "Wordpress",
-        //   fontAwesomeClassname: "simple-icons:wordpress",
-        //   style: {
-        //     color: "#207297",
-        //   },
-        // },
+        {
+          skillName: "jQuery",
+          fontAwesomeClassname: "simple-icons:jquery",
+          style: {
+            color: "#0865A6",
+          },
+        },
+        {
+          skillName: "Wordpress",
+          fontAwesomeClassname: "simple-icons:wordpress",
+          style: {
+            color: "#207297",
+          },
+        },
         // {
         //   skillName: "Apache",
         //   fontAwesomeClassname: "simple-icons:apache",
@@ -199,10 +199,10 @@ const skills = {
       ],
     },
     {
-      title: "Database architect",
+      title: "Database/Cloud architect",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Maintained app comonents, including activites, fragments, and services to automate testing and decrease deployment time.",
+        "⚡ Maintained app components, including activites, fragments, and services to automate testing and decrease deployment time.",
         "⚡ Managed dependencies between components using design patterns such as Dependency Injection and Service Locator focusing on core of the app to handle multiple concurrent users",
         "⚡ Recognized bottlenecks, introduced best practices and designed templates to improve code efficiency.",
         "⚡ Establish clear roles and responsibilities between the various parts of the application.",
@@ -286,9 +286,10 @@ const degrees = {
       alt_name: "UOW",
       duration: "May 2021 - Present",
       descriptions: [
-        "⚡ Participated in various Hackathons like 'BorderHacks', 'WinHacks' and 'HackForge' to have hands-on experience to develop my skills.",
-        "⚡ Member of AAAS organisation and enroled in a program named Prototype Pipeline associated with Invest WindsorEssex for working on business ideas.",
-        "⚡ Distinction in first two semesters with cumulative grade near to 90",
+        "⚡ Distinction with cumulative grade of 87.89%",
+        "⚡ Participated in various Hackathons like 'BorderHacks', 'WinHacks' and 'HackForge' to have hands-on experience on developing problem-solving skills.",
+        "⚡ Member of AAAS organisation and enrolled in a program named Prototype Pipeline associated with Invest WindsorEssex for working on business ideas.",
+ 
       ],
       website_link: "https://www.uwindsor.ca/",
     },
@@ -315,7 +316,6 @@ const certifications = {
       logo_path: "hadoop.png",
       certificate_link:"https://drive.google.com/uc?export=view&id=1HOUkxhhZkPU11QyrPmnE8QMfJrDR4qW2",
       alt_name: "Hadoop",
-      // color_code: "#2AAFED",
       color_code: "#E2405F",
     },
     {
@@ -419,71 +419,90 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance.",
+    "I have had the opportunity to learn from professors as a part of my undergraduate program. As an internship experience, I worked closely with an automation company MOBA Mobile Automation being a Machine Learning Intern, and also built a prediction model automate the fuel prices by increasing the efficiency to 90% creating clean data. I have 4 months of experience working as an Android Developer Intern at InfiniumDev IO LLP. I was awarded 'Intern of the Month' in October for my work ethics, commitment to meeting deadlines and taking responsibility for the quality of my performance. I have also gained experience as a Web Developer at Calgary based startup, i.e., Kudos Inc. where I was responsible for developong ROI calculator using MERN stack",
   header_image_path: "experience.svg",
+  // sections: [
+  //   {
+  //     title: "Experience",
+  //     experiences: [
+  //       {
+  //         title: "Web Developer",
+  //         company: "Kudos Inc.",
+  //         company_url: "https://www.kudos.com/",
+  //         logo_path: "Kudos.png",
+  //         duration: "Sept 2022 - Present",
+  //         location: "Remote",
+  //         description: "Updating the version of ROI calculator for the Sales team supporting finance-driven decisions of the clients. Managing requested modifications and technical challenges in accordance with the requirements by collaborating with UI/UX and Deployment team and receiving multiple acknowledgment badges from the colleagues",
+  //         color: "#4285F4",
+  //       },
+  //     ],
+  //   },
+  // ],
   sections: [
-    // {
-    //   title: "Work Experience",
-    //   experiences: [
-    //     {
-    //       title: "System Software Developer Co-op",
-    //       company: "Nokia (Ottawa)",
-    //       company_url: "https://www.nokia.com/",
-    //       logo_path: "nokia.png",
-    //       duration: "Jan 2022 - Present",
-    //       location: "Office",
-    //       description:
-    //         "Developing insight module for Nokia’s legacy software ‘Network Functional Manager - Transport’ by cleaning, filtering and analyzing large datasets using Python models. Contemplating the designs using creative components in React.JS.",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Software Developer",
-    //       company: "SoluLab (Ahmedabad)",
-    //       company_url: "https://www.solulab.com/",
-    //       logo_path: "solulab.png",
-    //       duration: "June 2019 - Jan 2021",
-    //       location: "Office",
-    //       description:
-    //         "Understood problem statements to implement business logics using superior REST API’s developed in Node.JS and Translated wireframes into high quality frontend code in React.JS. Worked on Efficient smart contract development in languages like GoLang and Solidity. Formulated specifications, design, architecture and relevant risk plans for more than six projects. Took up a crucial responsibility of training, managing and evaluating software interns. Maintained CI/CD pipelines to automate testing and decrease deployment time by 40%. Deployed Docker containers to break an application into microservices, managed by Kubernetes and could handle over 100,000 concurrent users. Recognized bottlenecks, introduced best practices and pre-designed templates to improve code efficiency by 25%. Acted as a key solution architect for a web application that raised over 1.6 Million dollars.",
-    //       color: "#0071C5",
-    //     },
-    //     {
-    //       title: "Research and Development Intern",
-    //       company: " Indian Institute of Toxicology Research (Lucknow)",
-    //       company_url: "http://iitrindia.org/En/Index.aspx",
-    //       logo_path: "iitr.png",
-    //       duration: " Jan 2019 - May 2019",
-    //       location: "Office",
-    //       description:
-    //         "Compiled a research paper and a working proof of concept model on enhancing data interoperability between patients, doctors, insurers using Blockchain for security and AI for prediction.",
-    //       color: "#0071C5",
-    //     }
-    //   ],
-    // },
     {
-      title: "Internships",
+      title: "Experience",
       experiences: [
         {
-          title: "Android Developer",
-          company: "InfiniumDev IO",
-          company_url: "https://www.infiniumdevio.com/",
-          logo_path: "io.png",
-          duration: "August 2021 - November 2021",
-          location: "Remote",
-          description: "  -I was working part time with this company for over a year. Improve its digital presence using  SEO techniques. Created a website for this company using  Node.JS and React.JS.",
+          title: ".NET Developer",
+          company: "CGI",
+          company_url: "https://www.cgi.com/en",
+          logo_path: "cgi.png",
+          duration: "Sept 2023 - Present",
+          location: "Hybrid",
+          description: "Collaborating with the team in an agile environment to create REST APIs for products related to vehicle and home insurance. Utilizing ASP.NET, SQL Server and Visual Studio for development.",
           color: "#4285F4",
         },
         {
-          title: "Machine Learning",
-          company: "MOBA Mobile Automation",
-          company_url: "https://moba-automation.eu/",
-          logo_path: "moba.png",
-          duration: "November 2020 - December 2020",
-          location: "Work from home",
-          description:
-          "Creating WebPages in PHP using IDE like code Ignitor.Connection of the web pages to database.",
+          title: "Java Developer",
+          company: "CGI",
+          company_url: "https://www.cgi.com/en",
+          logo_path: "cgi.png",
+          duration: "Jan 2023 - Aug 2023",
+          location: "Hybrid",
+          description: "Worked on a legacy transition financial project using Java, Springboot, Mybatis functionality with demonstrating extensive expertise in logic building maintaining the MVC architecture using Spring and Hibernate ORM framework. Integrated SLF4J logging functionality and built the server using Jenkins implementing changes in C++ server. Diligently managed UTR documentation while conducting efficient unit and sonar testing reaching 80% refactoring coverage.",
           color: "#4285F4",
         },
+        {
+          title: "Web Developer",
+          company: "Kudos Inc.",
+          company_url: "https://www.kudos.com/",
+          logo_path: "Kudos.png",
+          duration: "Sept 2022 - Nov 2022",
+          location: "Remote",
+          description: "Updating the version of ROI calculator for the Sales team supporting finance-driven decisions of the clients. Managing requested modifications and technical challenges in accordance with the requirements by collaborating with UI/UX and Deployment team and receiving multiple acknowledgment badges from the colleagues",
+          color: "#4285F4",
+        },
+        {
+          title: "Web Developer Intern",
+          company: "Kudos Inc.",
+          company_url: "https://www.kudos.com/",
+          logo_path: "Kudos.png",
+          duration: "June 2022 - August 2022",
+          location: "Remote",
+          description: "Developed a ROI calculator using three different modules helping users to recognise the optimize solutions from the results of the modules and increase the ROI, -Collaborated with different stakeholders, i.e., sales and marketing of the company for generating appropriate formulas for the calculator, -Assisted manager in creating the design and flow of the project with division of tasks in a sprint format.",
+          color: "#4285F4",
+        },
+        // {
+        //   title: "Android Developer Intern",
+        //   company: "InfiniumDev IO",
+        //   company_url: "https://www.infiniumdevio.com/",
+        //   logo_path: "io.png",
+        //   duration: "August 2021 - November 2021",
+        //   location: "Remote",
+        //   description: "Worked on an android java centralised crypto exchange mobile platform with options for executing crypto trades ensuring the security with IMPS Unocoin API and wallet for transfer funds, -Added user authentication and verification with integrated Firebase using KYC i.e., national identity, -Fetched real time data using API of major cryptocurrencies and represented the data into graphical format",
+        //   color: "#4285F4",
+        // },
+        // {
+        //   title: "Machine Learning Intern",
+        //   company: "MOBA Mobile Automation",
+        //   company_url: "https://moba-automation.eu/",
+        //   logo_path: "moba.png",
+        //   duration: "November 2020 - December 2020",
+        //   location: "Work from home",
+        //   description:
+        //   "-Conducted prediction of various features based on known data using Supervised Machine Learning Algorithms, -Used regression and classification algorithms to predict fuel dispense data, -Pre-process and visualized the data using charts and graphs, -Performed categorical and label encoding with feature selection and target prediction.",
+        //   color: "#4285F4",
+        // },
       ],
     },
   ],
@@ -503,7 +522,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "profile.png",
     description:
-      "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
+      "You can contact me at the links mentioned below. I will try to get back to you as fast as I can. ",
   },
   // blogSection: {
   //   title: "Blogs",
@@ -535,7 +554,7 @@ const projects = {
     {
       id: "1",
       name: "ChatHosting",
-      url: "https://github.com/kushdarji11/ChatHostinge",
+      url: "https://github.com/kushdarji11/ChatHosting",
       description:
         "Developed a real-time chat app for communication where Host can create room and broadcast the message.",
       languages: [
@@ -618,26 +637,26 @@ const projects = {
     },
     {
       id: "5",
-      name: "Eclectic",
-      url: "https://github.com/kushdarji11/Eclectic",
+      name: "Employee Management System",
+      url: "https://github.com/kushdarji11/employee_management_system",
       description:
-        "Android application like hike for any private organization - which has functionalities like Chat, Feed and Tasks having an additional functionality of creating a private room to have interraction among amployees of the company.",
-      languages: [
+        "An employee management web application build using Java, Springboot as a backend and React as a frontend to perform the employee related CRUD operations.", 
+        languages: [
         {
-          name: "Android",
-          iconifyClass: "flat-color-icons:android-os",
+          name: "Springboot",
+          iconifyClass: "skill-icons:spring-light",
         },
         {
           name: "Java",
           iconifyClass: "logos:java",
         },
         {
-          name: "Firebase",
-          iconifyClass: "vscode-icons:file-type-firebase",
+          name: "React",
+          iconifyClass: "skill-icons:react-light",
         },
         {
-          name: "XML",
-          iconifyClass: "vscode-icons:file-type-xml",
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
         },
       ],
     },

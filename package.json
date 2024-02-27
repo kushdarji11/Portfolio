@@ -1,19 +1,19 @@
 {
   "private": true,
   "name": "portfoliokush",
-  "homepage": "https://kushdarji11.github.io/Portfolio/",
+  "homepage": "http://serverless-kush-app.s3-website.us-east-2.amazonaws.com/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "masterbranch -d build",
+    "deploy": "aws s3 sync build/ s3://serverless-kush-app --acl public-read",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test",
     "heroku-postbuild": "npm run build"
   },
   "engines": {
-    "node": "14.15.5",
+    "node": "10.19.0",
     "npm": "8.3.0"
   },
   "dependencies": {
